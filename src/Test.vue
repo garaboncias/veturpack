@@ -1,13 +1,6 @@
 <template>
   <div>
-    {{ fo }}
+    {{ prop1 }}
   </div>
 </template>
-
-<script>
-import * as _ from 'lodash'
-
-export default {
-  props: ['foo', 'bar']
-}
-</script>
+<script src="./Test.vue.ts"></script>
